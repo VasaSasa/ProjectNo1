@@ -49,5 +49,7 @@ p {
     height: 130px;
     width: 130px;
     margin: 10px;
+    text-align: center;
+    font-size: 80px;
 
 }
