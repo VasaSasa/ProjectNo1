@@ -1,0 +1,23 @@
+
+
+.float_01 {
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    
+}
+
+
+h2 {
+    color: blue;
+}
+
+.clear_01 {
+    clear: both;
+}
+
+/* .margin_P1 { */
+    /* margin: 60px; */
+    /* display: inline-block; */
+/* } */
