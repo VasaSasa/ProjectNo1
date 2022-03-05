@@ -61,3 +61,50 @@ p {
 .img_01 {
     background-image: url(images/auta.jpg);
 }
+
+.flex_container_02 {
+    display: flex;
+    width: 100%;
+    /* height: 300px; */
+    background-color: rgb(238, 139, 139);
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+
+
+a {
+    font-weight: bold;
+    font-size: 50px;
+    text-decoration: none;    
+}
+
+
+a:visited {
+    color: rgb(2, 206, 2);
+}
+
+a:hover {
+    color: red;
+}
+
+
+a:link {
+    color:rgb(20, 17, 219);
+}
+
+.flex_items_02 {
+    width: 250px;
+    height: 200px;
+    background-color: black;
+    margin: 40px;
+    float: left;
+    text-align: center;
+    line-height: 80px;
+    /* margin-left: 450px; */
+    border: 10px solid yellow;
+    border-radius: 10%;
+}
+
+
+
