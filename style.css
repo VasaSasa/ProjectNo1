@@ -30,6 +30,7 @@ h1 {
 
 h2 {
     color: blue;
+    font-size: 40px;
 }
 
 .clear_01 {
@@ -90,6 +91,7 @@ p {
     flex-wrap: wrap;
     margin-left: 10%;
     margin-right: 10%;
+    /* align-items: baseline; */
 }
 
 
@@ -117,14 +119,14 @@ a:hover {
 
 .flex_items_02 {
     width: 250px;
-    height: 150px;
+    height: 200px;
     background-color: black;
     margin: 40px;
     float: left;
     text-align: center;
     padding-top: 20px;
     /* padding-bottom: 30px; */
-    /* line-height: 80px; */
+    line-height: 55px;
     /* margin-left: 450px; */
     border: 10px solid yellow;
     border-radius: 10%;
@@ -152,4 +154,10 @@ footer {
 
 body {
     background-image: url(images/kufr.jpg);
+}
+
+
+p {
+    color: aqua;
+    font-size: 25px;
 }
