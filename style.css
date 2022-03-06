@@ -1,5 +1,24 @@
 
 
+header {
+    text-align: center;
+    background-color: blueviolet;
+    width: 80%;
+    /* height: 300px; */
+    border-radius: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 20px solid red;
+}
+
+h1 {
+    font-size: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 .float_01 {
     float: left;
     margin-left: 10px;
@@ -64,11 +83,13 @@ p {
 
 .flex_container_02 {
     display: flex;
-    width: 100%;
+    width: 80%;
     /* height: 300px; */
     background-color: rgb(238, 139, 139);
     justify-content: space-evenly;
     flex-wrap: wrap;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 
@@ -76,31 +97,34 @@ p {
 a {
     font-weight: bold;
     font-size: 50px;
-    text-decoration: none;    
+    text-decoration: none;
+    color: green;    
 }
 
 
-a:visited {
-    color: rgb(2, 206, 2);
-}
+/* a:visited { */
+    /* color: rgb(2, 206, 2); */
+/* } */
 
 a:hover {
     color: red;
 }
 
 
-a:link {
-    color:blue;
-}
+/* a:link { */
+    /* color:blue; */
+/* } */
 
 .flex_items_02 {
     width: 250px;
-    height: 200px;
+    height: 150px;
     background-color: black;
     margin: 40px;
     float: left;
     text-align: center;
-    line-height: 80px;
+    padding-top: 20px;
+    /* padding-bottom: 30px; */
+    /* line-height: 80px; */
     /* margin-left: 450px; */
     border: 10px solid yellow;
     border-radius: 10%;
