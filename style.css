@@ -27,6 +27,12 @@ h1 {
     
 }
 
+.float_02 {
+    float: right;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
 
 h2 {
     color: blue;
@@ -34,6 +40,10 @@ h2 {
 }
 
 .clear_01 {
+    clear: both;
+}
+
+.clear_02 {
     clear: both;
 }
 
@@ -193,3 +203,10 @@ list-style-image: url(images/arrow_16.png);
 /* .money { */
     /* background-image: url(images/money_escudo\ \(1\).jpg); */
 /* } */
+
+
+img {
+    border: 20px solid orange;
+}
+
+
