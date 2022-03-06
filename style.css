@@ -175,3 +175,16 @@ p {
 }
 
 
+li {
+    color: aqua;
+    font-size: 25px;
+}
+
+
+li {
+list-style-image: url(images/arrow_16.png);
+}
+
+/* .list_style_01 { */
+    /* list-style-image: url(images/banana.png); */
+/* } */
