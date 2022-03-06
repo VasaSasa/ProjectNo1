@@ -165,6 +165,7 @@ h4 {
 
 body {
     background-image: url(images/kufr.jpg);
+    /* background-repeat: no-repeat; */
 }
 
 
@@ -172,3 +173,5 @@ p {
     color: aqua;
     font-size: 25px;
 }
+
+
