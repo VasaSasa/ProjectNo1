@@ -215,6 +215,7 @@ list-style-image: url(images/arrow_16.png);
 
 img {
     border: 20px solid orange;
+    /* background-image: none; */
 }
 
 
