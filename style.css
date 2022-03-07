@@ -195,6 +195,11 @@ li {
 list-style-image: url(images/arrow_16.png);
 }
 
+.ul_age {
+    margin-left: 200px;
+    /* text-align: center; */
+}
+
 /* .list_style_01 { */
     /* list-style-image: url(images/banana.png); */
 /* } */
