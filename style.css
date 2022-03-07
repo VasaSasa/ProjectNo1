@@ -211,6 +211,7 @@ img {
 
 
 .style_aside_01 {
+    padding: 5px;
     color: rgba(200, 25, 25, 0.178);
     font-size: 45px;
     font-weight: bold;
@@ -223,6 +224,9 @@ img {
 
 
 .style_aside_02 {
+    height: 400px;
+    line-height: 100px;
+    padding: 5px;
     color: rgba(200, 25, 25, 0.178);
     font-size: 45px;
     font-weight: bold;
