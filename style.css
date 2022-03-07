@@ -210,3 +210,25 @@ img {
 }
 
 
+.style_aside_01 {
+    color: rgba(200, 25, 25, 0.178);
+    font-size: 45px;
+    font-weight: bold;
+    background-color: rgb(22, 13, 2);
+    text-align: center;
+    float: left;
+    margin: 10px;
+    border: 5px dashed red;
+}
+
+
+.style_aside_02 {
+    color: rgba(200, 25, 25, 0.178);
+    font-size: 45px;
+    font-weight: bold;
+    background-color: rgb(22, 13, 2);
+    text-align: center;
+    float: right;
+    margin: 10px;
+    border: 5px dashed red;
+}
