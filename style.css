@@ -215,6 +215,13 @@ img {
 }
 
 
+@media (max-width: 599px) {
+    h2 {
+        background-color: red;
+    }
+}
+
+
 .style_aside_01 {
     padding: 5px;
     color: rgba(200, 25, 25, 0.178);
