@@ -217,7 +217,11 @@ img {
     border: 20px solid orange;
     /* background-image: none; */
 }
-
+@media (max-width:800px)  {
+    img {
+        border: 18px groove  rgb(85, 42, 165);
+    }
+}
 
 @media (max-width: 599px) {
     h2 {
@@ -240,8 +244,18 @@ img {
         font-weight: bold;
         font-size: 30px;
     }
+    img {
+        border: 10px groove  brown;
+    }
 }
 
+
+
+/* @media (max-width:800px)  { */
+    /* img { */
+        /* border: 18px groove  rgb(85, 42, 165); */
+    }
+}
 
 
 .style_aside_01 {
