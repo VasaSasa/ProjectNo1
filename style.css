@@ -196,7 +196,10 @@ list-style-image: url(images/arrow_16.png);
 }
 
 .ul_age {
-    margin-left: 200px;
+    margin-left: 20%;
+    /* margin-right: 20%; */
+    /* padding-right: 20%; */
+    /* background-color: red; */
     /* text-align: center; */
 }
 
@@ -217,9 +220,27 @@ img {
 
 @media (max-width: 599px) {
     h2 {
-        background-color: red;
+        background-color: rgb(255, 0, 234);
     }
 }
+
+@media (max-width: 599px) {
+    .ul_age {
+        margin-left: 10px;
+        margin-right: 10px;
+        padding-right: 20px;
+        background-color: rgb(255, 30, 0);
+        /* color: rgb(19, 7, 7); */
+        /* font-weight: bold; */
+        /* font-size: 30px; */
+    }
+    li {
+        color: yellow;
+        font-weight: bold;
+        font-size: 30px;
+    }
+}
+
 
 
 .style_aside_01 {
